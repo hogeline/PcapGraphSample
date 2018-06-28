@@ -7,6 +7,7 @@ dpktインストール
 ```
 $ wget https://github.com/kbandla/dpkt/archive/v1.9.0.tar.gz
 $ tar zxvf v1.9.0.tar.gz
+$ cd v1.9.0
 $ sudo python3 setup.py build
 $ sudo python3 setup.py install
 ```
